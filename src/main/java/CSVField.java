@@ -1,0 +1,3 @@
+@interface CSVField {
+    int index();
+}
